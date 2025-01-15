@@ -1,28 +1,20 @@
-[0110/005714.980:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
-[0110/020842.940:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(85,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[0110/020843.181:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
-
-[0110/020915.467:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(85,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[0110/020915.616:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
-
-[0110/021107.144:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(85,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
-
-[0110/021107.297:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
-C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
-
-[0110/021119.935:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(160,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
+[0115/124531.787:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0115/130246.893:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+[0115/130753.163:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/130753.169:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/130822.955:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/130822.964:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/130946.779:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/130946.793:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131052.337:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131052.338:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131052.903:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131052.905:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131106.344:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131106.361:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131106.379:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131106.384:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131106.486:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131106.509:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131106.523:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
+[0115/131106.524:WARNING:dns_config_service_win.cc(712)] Failed to read DnsConfig.
